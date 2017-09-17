@@ -1,0 +1,7 @@
+PWD /home/ngubanele/university/honoursproject/sample-paper/body
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/ngubanele/university/honoursproject/sample-paper/body/introduction.tex
+OUTPUT /home/ngubanele/university/honoursproject/sample-paper/body/introduction.log
